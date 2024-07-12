@@ -1,10 +1,21 @@
-*Oi Oi, eu sou a Maju*
-##
-💻 Web Design
-  - HTML e CSS
-  - UI e UX designer
+# Oi Oi, eu sou a Maju! 👋
+
+### Sobre mim
+
+Sou uma desenvolvedora web em desenvolvimento 🤭, sempre em busca de novas tecnologias e desafios. Minha jornada no mundo do desenvolvimento começou com uma paixão por criar experiências digitais incríveis e funcionais. Gosto de explorar novas ferramentas e técnicas para transformar ideias em realidade.
+
+Minha missão é construir interfaces web que sejam não apenas bonitas, mas também intuitivas e acessíveis. Cada linha de código é um passo em minha aventura de aprendizado e crescimento na área de tecnologia.
+
+### Tecnologias que eu utilizo 🕹
+
+- **Linguagens:**
   - JavaScript
-  - ReactJS
+  - TypeScript
+
+- **Bibliotecas e Frameworks:**
+  - React.js
+  - Tailwind CSS
+  - Bootstrap
   
  ##
  <div align="center">
